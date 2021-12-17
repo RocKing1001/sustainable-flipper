@@ -1,2 +1,2 @@
-# Example Mod
-This is an example mod for Kotlin.
+# Sus Flipper
+This is a mod which will make you sus
